@@ -408,7 +408,7 @@ footer p{
         transform: translate(90px, -42px);
     }
     header .top_bar .menu_bar {
-        left: 55%;
+        left: 50%;
     }
     .swiper-slide img.web{
         display: none;
